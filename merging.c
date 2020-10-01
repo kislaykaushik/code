@@ -9,7 +9,7 @@ for(i=0;i<n1;i++)
 {printf("%d ",a[i]);
 }printf("\n");
 for(i=0;i<n2;i++)
-{scanf("%d",&b[i]);
+{scanf("%d" ,&b[i]);
 }
 for(i=0;i<n2;i++)
 {printf("%d ",b[i]);
