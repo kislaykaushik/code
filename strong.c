@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {int d,i,x,n,fac,sum=0;
-printf("enter the number=");
+printf("enter the number= ");
 scanf("%d",&x);
 n=x;
 while(n>0)
